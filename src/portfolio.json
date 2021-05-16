@@ -3,5 +3,10 @@
     "holdingName": "TSMC",
     "usdAmount": "24546",
     "theme": "Tech"
+  },
+  "ASML": {
+    "holdingName": "ASML",
+    "usdAmount": "53213",
+    "theme": "Tech"
   }
 }
